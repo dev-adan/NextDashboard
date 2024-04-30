@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/api/auth/[...nextauth]", "components/Navbar.tsx"  ],
+, "pages/api/auth/[...nextauth]", "components/Navbar.tsx", "components/Analytics.js"  ],
   "exclude": [
     "node_modules"
   ]

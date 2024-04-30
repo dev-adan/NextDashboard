@@ -12,6 +12,7 @@
     "@auth/prisma-adapter": "^2.0.0",
     "@headlessui/react": "^1.7.19",
     "@prisma/client": "^5.13.0",
+    "@tremor/react": "^3.16.2",
     "avvvatars-react": "^0.4.2",
     "lucide-react": "^0.376.0",
     "next": "14.2.2",
